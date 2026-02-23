@@ -19,9 +19,7 @@ This app allows users to manage daily tasks efficiently with a clean UI and dark
 
 ## 🚀 Live Deployment
 
-This project is deployed from the following link:
-
-🔗 https://real-os-project-karansinh-mori.netlify.app/
+🔗 https://vercel.com/karansinh1818s-projects/todo-app
 
 ---
 
@@ -211,4 +209,5 @@ Karansinh Mori
 ## ⭐ Support
 
 If you like this project, feel free to give it a star ⭐ on GitHub!
+
 
