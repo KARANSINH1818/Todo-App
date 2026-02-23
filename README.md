@@ -19,8 +19,7 @@ This app allows users to manage daily tasks efficiently with a clean UI and dark
 
 ## 🚀 Live Deployment
 
-🔗 https://vercel.com/karansinh1818s-projects/todo-app
-
+🔗 https://todo-app-seven-silk-13.vercel.app/
 ---
 
 ## 🚀 Features
@@ -209,5 +208,6 @@ Karansinh Mori
 ## ⭐ Support
 
 If you like this project, feel free to give it a star ⭐ on GitHub!
+
 
 
