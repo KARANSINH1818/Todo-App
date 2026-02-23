@@ -5,7 +5,6 @@
 [![MUI](https://img.shields.io/badge/MUI-Material%20UI-007FFF?logo=mui)](https://mui.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?logo=github)](https://pages.github.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A modern and responsive **Todo Application** built using **React** and **Material UI (MUI)**.  
 This app allows users to manage daily tasks efficiently with a clean UI and dark mode support.
@@ -15,6 +14,14 @@ This app allows users to manage daily tasks efficiently with a clean UI and dark
 ## 🌐 Live Demo
 
 🔗 https://karansinh1818.github.io/Todo-App/
+
+---
+
+## 🚀 Live Deployment
+
+This project is deployed from the following link:
+
+🔗 https://real-os-project-karansinh-mori.netlify.app/
 
 ---
 
@@ -204,3 +211,4 @@ Karansinh Mori
 ## ⭐ Support
 
 If you like this project, feel free to give it a star ⭐ on GitHub!
+
